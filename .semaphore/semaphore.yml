@@ -13,8 +13,7 @@ blocks:
           - checkout
           - install-package bc build-essential zip curl libstdc++6 xz-utils
           - wget https://raw.githubusercontent.com/yusuf-somantri/readme/master/semaphore
-          - bash semaphore-pure
-
+          - bash semaphore
 
 
 
